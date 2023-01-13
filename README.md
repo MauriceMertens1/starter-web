@@ -19,5 +19,5 @@ kan ik dit aanpassen
 
 ja dat kan
 
-dit is aangepast in github
+copyright 13-1
 
