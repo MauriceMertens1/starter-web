@@ -1,9 +1,11 @@
 # Starter Web Project
 
+dit is een eenvoudige website
+
 ## Introduction
 
 ## Purpose
 
-## Deploymentt
+## Deployment
 
 ## How To Contribute
