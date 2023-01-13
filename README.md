@@ -18,3 +18,5 @@ en wederom nog meer purpose
 kan ik dit aanpassen
 ja dat kan
 
+dit is aangepast in github
+
