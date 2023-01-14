@@ -2,6 +2,8 @@
 # The humans responsible & technology colophon
 Dit is zaterdag toegevoegd
 
+Dit is zaterdag remote toegevoegd!
+
 # TEAM
 
     Maurice Mertens
