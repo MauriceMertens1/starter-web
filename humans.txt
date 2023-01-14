@@ -1,11 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-Dit is zaterdag toegevoegd
-Dit is 18h43 toegevoegd
-
-Dit is op 18:47 lokaal toegevoegd
-
-Dit is zaterdag remote toegevoegd!
+Dit wordt lokaal toegevoegd om 18h54
 
 # TEAM
 
