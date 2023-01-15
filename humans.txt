@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-Aanpassing locaal 1105
+
+Aanpassing locaal 1108
 
 # TEAM
 
